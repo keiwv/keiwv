@@ -1,5 +1,26 @@
+<div align="center">
+<h3> Hi there, I'm <a>keiwv</a> 👋 </h3>
+
 ![keiwv (1)](https://github.com/keiwv/keiwv/assets/141773283/4679e382-895d-47f2-ba45-9662261748f6)
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h3>Languages and Tools:</h3>
+<div>
+  &nbsp;
+  <a href="https://w3.org/html"><img src="https://skillicons.dev/icons?i=html" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://w3schools.com/css"><img src="https://skillicons.dev/icons?i=css" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://github.com/keiwv"><img src="https://skillicons.dev/icons?i=github" height="26" width="26"></a>
+  &nbsp;
+  <a><img src="https://skillicons.dev/icons?i=c" height="26" width="26"></a>
+  &nbsp;
+  <a"><img src="https://skillicons.dev/icons?i=cpp" height="26" width="26"></a>
+</div>
+
+</div>
