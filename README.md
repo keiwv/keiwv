@@ -1,7 +1,7 @@
 <div align="center">
 <h3> Hi there, I'm <a>keiwv</a> 👋 </h3>
 
-![keiwv](https://github.com/user-attachments/assets/61be83fc-8f20-4fff-94f9-adaaa6821ac9)
+![keiwv](https://github.com/user-attachments/assets/c87f8e76-6a4e-4306-9af7-f71730faeffe)
 
 ---
 
